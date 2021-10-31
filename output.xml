@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite errors="0" failures="0" hostname="osboxes" name="pytest" skipped="0" tests="1" time="0.020" timestamp="2021-10-31T15:36:36.461228"><testcase classname="test_math" file="test_math.py" line="1" name="test_add" time="0.001"></testcase></testsuite></testsuites>
